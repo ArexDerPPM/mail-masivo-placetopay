@@ -1,0 +1,3 @@
+-- Active: 1786026055607@@127.0.0.1@3306@mailptp
+
+TRUNCATE TABLE emails;
